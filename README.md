@@ -1,1 +1,3 @@
 # eerste-repo
+
+Ik ben reuze benieuwd hoe deze repo gaat aflopen...
